@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 int number = 42;
 Console.WriteLine(number);
+Console.Write("Szia!");
